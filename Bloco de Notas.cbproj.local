@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/12 19:59:15.576,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/07/12 19:59:15.721,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/07/12 19:59:29.760,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Bloco de NotasPCH1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/07/12 19:59:29.783,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Unit1.cpp=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/07/12 19:59:29.783,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Unit1.dfm=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/07/12 19:59:29.783,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Unit1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2025/07/12 19:59:29.809,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Bloco de Notas.cbproj=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025/07/12 19:59:34.078,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\main.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Unit1.h</Transaction>
+    <Transaction>2025/07/12 19:59:34.078,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\main.cpp=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Unit1.cpp</Transaction>
+    <Transaction>2025/07/12 19:59:34.078,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\main.dfm=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Bloco de Notas\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
