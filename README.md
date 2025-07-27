@@ -1,6 +1,6 @@
 <h1 align="center">Bloco de Notas - Por Andrew Vargas</h1>
 
-- Esse software é um bloco de notas que implementado utilizando o C++ Builder da Embarcadero e 
+- Esse software é um bloco de notas que foi implementado utilizando o C++ Builder da Embarcadero e 
 VCL para a criação da interface gráfica. Diferentemente do bloco de notas tradicional que já vem no Windows, este aqui presente possui diversos temas mais agradáveis que o padrão da Microsoft.
 
 
